@@ -12,11 +12,9 @@
     </div>
     <div align=left>
         <br>
-        <p>
-            <strong>
+        <p><strong>
                 Computer Science Student, Web Devoloper and Open-Source Enthusiast.<br><br>
                 I am Mo Mahadi Hasan. I am studying computer science. Web development is the most interesting thing for me. When I have time, I try to learn by myself to tell so much about myself. Html, Java Script, React, Css, Css Framework is all <br><br>
-                
             </strong>
         </p>
         <ul>
@@ -25,7 +23,6 @@
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://www.linkedin.com/in/loneliness-mahadi/">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-          
         </ul>
     </div>
     <div align=center>
@@ -49,4 +46,6 @@
 ---
 
 Credit: [Mahadi Hasan](https://github.com/loneliness-mahadi)
+
+
 
