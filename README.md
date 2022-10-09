@@ -12,12 +12,10 @@
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working at [Programming Hero](https://www.programming-hero.com/)  
-
 - 🌱 I’m currently learning TypeScript, React-Native & Go.
 
-- 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
- - 📫 Reach me at **shakilatik@gmail.com**  
+- 💬 Talk to me about React, JavaScript.
+ - 📫 Reach me at **lonelinessmahadi@yahoo.com
 
 <br>
   
