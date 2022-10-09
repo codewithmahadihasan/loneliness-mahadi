@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="[https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/245485694_1191033174720745_813264271905213764_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_ohc=XhYn3X-9sucAX-4i0Jl&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8b31ebRwKcL_uCCoWn50A70lT93eeEbre_zK_4uE52Xw&oe=6346DC4F)" alt="cover" />
+<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/245485694_1191033174720745_813264271905213764_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_ohc=XhYn3X-9sucAX-4i0Jl&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8b31ebRwKcL_uCCoWn50A70lT93eeEbre_zK_4uE52Xw&oe=6346DC4F" alt="cover" />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Atik</h1>  
