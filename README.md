@@ -2,7 +2,7 @@
 <img width="100%" src="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/178097735_1082779032212827_8152426608055239012_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=2j2R9MtZd0oAX8BXmkV&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-4WAI9WvaXlJCWu4VfWQP8h9qUptKuvlyvKvJvPDB05Q&oe=63688E4D" alt="cover" />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Atik</h1>  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Mahadi Hasan</h1>  
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
 <br>
